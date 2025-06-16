@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 <!---LeetCode Topics End-->

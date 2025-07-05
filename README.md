@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

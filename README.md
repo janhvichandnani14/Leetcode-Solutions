@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1137-height-checker](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Math
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [1137-height-checker](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1137-height-checker) |
 ## Merge Sort
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0937-online-stock-span) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->

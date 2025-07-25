@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1813-maximum-erasure-value](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1813-maximum-erasure-value](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Math
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1813-maximum-erasure-value](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 ## Binary Search
 |  |
 | ------- |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1603-running-sum-of-1d-array](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1813-maximum-erasure-value](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Math
@@ -120,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1603-running-sum-of-1d-array](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

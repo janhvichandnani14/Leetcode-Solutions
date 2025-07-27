@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

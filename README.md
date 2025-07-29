@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -134,5 +136,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0890-lemonade-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

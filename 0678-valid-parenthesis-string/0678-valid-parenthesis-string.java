@@ -2,35 +2,24 @@ import java.util.*;
 
 class Solution {
     public boolean checkValidString(String s) {
-        Stack<Integer> leftStack = new Stack<>();
-        Stack<Integer> starStack = new Stack<>();
+       int low=0;
+       int high=0;
 
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (c == '(') {
-                leftStack.push(i);
-            } else if (c == '*') {
-                starStack.push(i);
-            } else if (c == ')') {
-                if (!leftStack.isEmpty()) {
-                    leftStack.pop(); // match with '('
-                } else if (!starStack.isEmpty()) {
-                    starStack.pop(); // match with '*'
-                } else {
-                    return false; // unmatched ')'
-                }
-            }
+       for(int i=0;i<s.length();i++){
+        char ch=s.charAt(i);
+        if(ch=='('){
+            low++;
+            high++;
+        }else if(ch==')'){
+            low--;
+            high--;
+        }else{
+            low--;
+            high++;
         }
-
-        // Try to match remaining '(' with '*' that appear after it
-        while (!leftStack.isEmpty() && !starStack.isEmpty()) {
-            int leftIndex = leftStack.pop();
-            int starIndex = starStack.pop();
-            if (starIndex < leftIndex) {
-                return false; // star can't match '(' before it
-            }
-        }
-
-        return leftStack.isEmpty();
+        if(high<0)return false;
+        if(low<0)low=0;
+       }
+      return low==0;
     }
 }

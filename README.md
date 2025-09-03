@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1813-maximum-erasure-value](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 ## Linked List
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0451-sort-characters-by-frequency](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1137-height-checker](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1137-height-checker) |
 ## Merge Sort
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/1137-height-checker) |
 ## Sliding Window
 |  |
@@ -159,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/janhvichandnani14/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
